@@ -16,9 +16,9 @@ function App() {
     
     <div className="tituloObjeto">
 
-      <ItemListContainer name='Chanchito' price='2600' />
-      <ItemListContainer name='Elefante' price='2500' />
-      <ItemListContainer name='Lobo' price='2800' />
+      <ItemListContainer name='Chanchito' imgN='0' price='2600' />
+      <ItemListContainer name='Elefante' imgN='1' price='2500' />
+      <ItemListContainer name='Lobo' imgN='2' price='2800' />
     </div>
     
     </section>

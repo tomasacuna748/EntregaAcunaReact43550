@@ -6,7 +6,7 @@ const NavBar = () => {
     <div className="navbar bg-base-100 navBarC">
         <div className="flex-1">
         <a className="navbar" href="index.html">
-                <img src="../img/TRlogo.png" className="logo" alt="logito"/>
+                <img src="../../img/TRlogo.png" className="logo" alt="logito"/>
         </a>
             
         </div>
